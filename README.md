@@ -29,4 +29,7 @@ This is a landing page project for Manage, a fictional company. The landing page
 
    ```bash
    git clone https://github.com/nikhilbhusa/Manage-Landing-Page.git
+   
+##Acknowlegement
+You can copy this markdown content and replace the existing README file in the project repository with it. Make sure to include any additional information or modifications as needed.
 
